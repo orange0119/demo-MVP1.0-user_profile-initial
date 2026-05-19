@@ -1,0 +1,31 @@
+﻿{
+  "version": "v5.8_core6_specific_guard_soft_candidate",
+  "label_set": "core6",
+  "model_path": ".\\models\\task_type_classifier_v5_8_soft\\model.joblib",
+  "compat_script": ".\\train_task_type_classifier_v5_8_specific_guard.py",
+  "recommended_for": "multi_agent_orchestration",
+  "reason": "Hard and boundary performance are significantly better than strict baseline; realistic macro-F1 is also slightly higher, though realistic accuracy is lower.",
+  "class_multipliers": {
+    "practical_help": 1.05,
+    "relationship_reading": 1.0,
+    "decision_support": 1.35,
+    "emotional_support": 1.0,
+    "clarification": 1.0,
+    "open_discussion": 1.0
+  },
+  "rule_override": {
+    "enabled": true,
+    "rule_min_prob": 0.05,
+    "rule_max_margin_to_override": 0.25
+  },
+  "acceptance_result": {
+    "hard_macro_f1": 0.9916,
+    "boundary_macro_f1": 0.9382,
+    "realistic_macro_f1": 0.6360,
+    "realistic_accuracy": 0.5921
+  },
+  "baseline_for_comparison": {
+    "name": "v5.8_core6_bias_guard_strict",
+    "model_path": ".\\outputs\\task_type_classifier_core6_rebalanced_v5_8_bias_guard\\model.joblib"
+  }
+}
