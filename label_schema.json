@@ -1,0 +1,22 @@
+{
+  "task_types_v5_2": [
+    "practical_help",
+    "relationship_reading",
+    "decision_support",
+    "emotional_support",
+    "clarification",
+    "open_discussion",
+    "light_trouble"
+  ],
+  "core6_mapping": {
+    "light_trouble": "practical_help"
+  },
+  "fields": {
+    "query": "输入文本/用户发言",
+    "task_type": "训练标签",
+    "seriousness": "调度辅助标签，不参与默认训练",
+    "intent_label": "调度解释用标签，不参与默认训练",
+    "source_weight": "样本权重；公开弱标签默认低权重，项目样本默认高权重",
+    "mapping_reason": "弱标注或人工标注依据"
+  }
+}

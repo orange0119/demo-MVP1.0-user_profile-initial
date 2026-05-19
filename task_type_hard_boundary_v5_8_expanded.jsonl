@@ -1,0 +1,240 @@
+{"query": "我现在事情堆得很多，能不能帮我拆一个今晚先做什么的最小计划？", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想训练分类器，但不知道先改数据还是先改模型，能不能给我一个执行顺序？", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我最近总是拖延刷手机，能不能给我一个今天就能开始的办法？", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我明天要汇报，现在材料很乱，帮我整理一个准备流程可以吗？", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想把 hard test 做起来，但不知道文件怎么组织，帮我列一个步骤。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我现在看不懂混淆矩阵，能不能教我先看哪几项？", "task_type": "practical_help", "family": "practical_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想把实验结果放进 PPT，帮我安排一下汇报结构。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我的任务太多了，帮我排一个今天晚上两小时的执行计划。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我不知道怎么开始写 README，帮我给一个可直接填的框架。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "这个脚本报错了，帮我按顺序排查应该先看什么。", "task_type": "practical_help", "family": "practical_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想做一个可下载的代码包，应该包含哪些文件？", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想把用户画像接入调度器，下一步具体应该改哪个模块？", "task_type": "practical_help", "family": "practical_vs_decision", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我现在训练结果不稳定，帮我列一个最小可行的修复清单。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想补数据集，能不能给我一些可以直接用的样本格式？", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我的 open_discussion 过度预测，帮我写一个排查流程。", "task_type": "practical_help", "family": "practical_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想冻结当前版本，给我一段 git 命令。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想跑一轮小实验，帮我写 PowerShell 命令。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我需要把分类器接入调度器，接口应该怎么写？", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "帮我把这几个指标整理成一段组会汇报话术。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想把 public 数据和人工数据混合训练，具体怎么设置权重？", "task_type": "practical_help", "family": "practical_vs_decision", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想减少过拟合，给我几条现在能做的改法。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想检查 rule cue 是否生效，帮我写一个检查脚本。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我需要重新生成图像结果，给我终端命令。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我的结果 accuracy 低，帮我按数据、模型、评估三部分排查。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想快速补 50 条 decision_support 数据，帮我给模板。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想把错误样本分类，帮我设计 family 标签。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "这个数据集里有很多影视对白，帮我想一个过滤方案。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我需要把 exp4 继续优化，帮我规划下一轮实验表。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "帮我把模型输出里的 report 字段解释成中文。", "task_type": "practical_help", "family": "practical_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想做 ablation summary，帮我生成汇总脚本。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我现在有 3 个模型版本，帮我做一个选择流程。", "task_type": "practical_help", "family": "practical_vs_decision", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想让调度器更稳定，帮我列一版改动优先级。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我需要给下游一个调用示例，帮我写输入输出格式。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "帮我把这些 case 转成 jsonl 训练样本。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想降低 open_discussion 的误判，帮我设计一个验证集。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想在训练脚本里加入 extra_weight，代码应该改在哪里？", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想对低置信度样本重新标注，帮我设计流程。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我现在只想先跑最小实验，给我一条最短命令。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想把实验保存到新文件夹并自动画图，帮我写脚本。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我想把这一版写成 README，帮我生成结构。", "task_type": "practical_help", "family": "practical_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我拿到两个 offer，一个稳定但工资低，一个工资高但压力大，我该选哪个？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我该先继续补数据，还是先改模型结构？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "这个版本 accuracy 高但 macro-F1 低，我应该选它还是选另一个更均衡的？", "task_type": "decision_support", "family": "decision_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我要不要把 light_trouble 单独保留成一个类别？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我现在该不该继续用公开数据训练，还是先转向人工标注？", "task_type": "decision_support", "family": "decision_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我该优先优化 practical_help，还是 decision_support？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "如果 exp1 macro-F1 高但 accuracy 低，我要不要作为最终版本？", "task_type": "decision_support", "family": "decision_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我应该选 v5.6 稳定版，还是选 v5.7 cue 版本继续做？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我现在要不要把 open_discussion 的权重压低一点？", "task_type": "decision_support", "family": "decision_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "这个数据集噪声很大，我要不要继续扩大它？", "task_type": "decision_support", "family": "decision_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我该把 hard boundary 权重设成 2.0 还是 4.0？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我要不要先冻结 core6，再考虑七类版本？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我该选择规则后处理，还是把 cue 放进训练特征？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "如果调度器要上线 demo，我应该选 accuracy 高的还是 macro-F1 高的模型？", "task_type": "decision_support", "family": "decision_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我现在要不要删除 query-like 版本的实验结果？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我应该先修 decision_support，还是先修 relationship_reading？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我该不该把 public 数据降权训练？", "task_type": "decision_support", "family": "decision_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我应该继续手工补 80 条，还是一次性补到 300 条？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "这个模型 test 高但 hard_test 低，我该不该用？", "task_type": "decision_support", "family": "decision_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我该选 exp2 hard-only，还是 exp4 cue+hard+tune-alpha？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我现在该不该重新切分训练集，避免公开数据泄漏？", "task_type": "decision_support", "family": "decision_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我应该使用 class_weight_balanced，还是自己手动设权重？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "这个 case 是 practical_help 还是 decision_support，我该怎么定标签？", "task_type": "decision_support", "family": "decision_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我该不该把“给我一个方向”统一标成 practical_help？", "task_type": "decision_support", "family": "decision_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "遇到“你们怎么看，我该怎么办”这种混合句，应该标 open 还是 practical？", "task_type": "decision_support", "family": "decision_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "这个版本 train 很高 test 一般，我该不该继续调 alpha？", "task_type": "decision_support", "family": "decision_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我应该先画图汇报，还是先继续补实验？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我该不该把情绪支持和关系判断拆得更细？", "task_type": "decision_support", "family": "decision_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "现在数据量不大，我要不要换成大模型标注？", "task_type": "decision_support", "family": "decision_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我应该把 open_discussion 定义得更窄一点吗？", "task_type": "decision_support", "family": "decision_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我该不该保留规则 override，还是只保留 cue 特征？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我应该在 dev_macro_f1 和 dev_accuracy 之间选哪个做调参目标？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "如果人工数据和公开数据冲突，我应该相信哪一边？", "task_type": "decision_support", "family": "decision_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我该不该把影视对白样本从训练集中删掉？", "task_type": "decision_support", "family": "decision_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我应该先做消融实验，还是先写论文方法部分？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我该不该把 low confidence 样本重新加入训练？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我应该使用 v5.7 继续开发，还是回退到 v5.6？", "task_type": "decision_support", "family": "decision_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我该不该把 task_type 分类器单独做成 API？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我应该在报告里强调 accuracy，还是强调 macro-F1？", "task_type": "decision_support", "family": "decision_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我现在该选哪个版本用于下游调度器集成？", "task_type": "decision_support", "family": "decision_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "你们怎么看短视频和 AI 工具对专注力的影响？", "task_type": "open_discussion", "family": "open_vs_practical", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你觉得努力和天赋哪个更重要？", "task_type": "open_discussion", "family": "open_vs_decision", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你们觉得 AI 以后会不会改变很多人的工作方式？", "task_type": "open_discussion", "family": "open_vs_decision", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你怎么看公开数据集弱标签用于任务分类这件事？", "task_type": "open_discussion", "family": "open_vs_practical", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你们觉得规则方法和模型方法各自的优缺点是什么？", "task_type": "open_discussion", "family": "open_vs_decision", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你怎么看多智能体群聊里主答和补充的分工？", "task_type": "open_discussion", "family": "open_vs_practical", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你觉得用户画像会不会让 AI 陪伴更自然？", "task_type": "open_discussion", "family": "open_vs_practical", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你们怎么看“陪伴智能体应该主动搭话”这个问题？", "task_type": "open_discussion", "family": "open_vs_decision", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你觉得 open_discussion 为什么容易吞掉其他类别？", "task_type": "open_discussion", "family": "open_vs_clarification", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你怎么看用明星人设来做多方会话 demo？", "task_type": "open_discussion", "family": "open_vs_practical", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你们觉得一个好的调度器应该更重视稳定还是多样？", "task_type": "open_discussion", "family": "open_vs_decision", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你怎么看 AI 作为学习搭子这件事？", "task_type": "open_discussion", "family": "open_vs_emotional", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你觉得短文本分类最大的难点是什么？", "task_type": "open_discussion", "family": "open_vs_clarification", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你怎么看 hard boundary 数据对模型的影响？", "task_type": "open_discussion", "family": "open_vs_decision", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你们觉得公开数据和真实用户请求差异大吗？", "task_type": "open_discussion", "family": "open_vs_practical", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你怎么看任务类型分类和角色调度之间的关系？", "task_type": "open_discussion", "family": "open_vs_practical", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你觉得 macro-F1 和 accuracy 哪个更能说明模型好？", "task_type": "open_discussion", "family": "open_vs_decision", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你怎么看多方对话里主持人介入的必要性？", "task_type": "open_discussion", "family": "open_vs_practical", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你们觉得调度器应该像规则系统还是像学习系统？", "task_type": "open_discussion", "family": "open_vs_decision", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你怎么看把用户情绪作为调度依据？", "task_type": "open_discussion", "family": "open_vs_emotional", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你觉得关系判断和情绪支持为什么容易混？", "task_type": "open_discussion", "family": "open_vs_clarification", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你怎么看模型训练中的弱监督思路？", "task_type": "open_discussion", "family": "open_vs_practical", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你们觉得 AI 陪伴产品最难的部分是什么？", "task_type": "open_discussion", "family": "open_vs_emotional", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你怎么看多智能体协作生成测试报告这个选题？", "task_type": "open_discussion", "family": "open_vs_practical", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你觉得调度模块在整个系统里最核心的价值是什么？", "task_type": "open_discussion", "family": "open_vs_practical", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你怎么看用 cue 特征提升分类器可解释性？", "task_type": "open_discussion", "family": "open_vs_practical", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你们觉得 decision_support 和 practical_help 的区别在哪里？", "task_type": "open_discussion", "family": "open_vs_clarification", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你怎么看把 light_trouble 合并进 practical_help？", "task_type": "open_discussion", "family": "open_vs_decision", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你觉得用户主动点名 agent 时是否还需要调度？", "task_type": "open_discussion", "family": "open_vs_decision", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你怎么看“补充回答不能重复主答”这个设计？", "task_type": "open_discussion", "family": "open_vs_practical", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你觉得边界 case 对调度器测试有多重要？", "task_type": "open_discussion", "family": "open_vs_practical", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你们觉得这个分类器更像工程模块还是研究模块？", "task_type": "open_discussion", "family": "open_vs_decision", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你怎么看人设对多智能体对话自然度的影响？", "task_type": "open_discussion", "family": "open_vs_emotional", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你觉得低置信度样本应该如何利用？", "task_type": "open_discussion", "family": "open_vs_practical", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你怎么看把调度结果保存成 txt 做分析？", "task_type": "open_discussion", "family": "open_vs_practical", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你觉得模型过拟合公开弱标签是正常的吗？", "task_type": "open_discussion", "family": "open_vs_clarification", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你怎么看“用户每轮不一定发言”的调度问题？", "task_type": "open_discussion", "family": "open_vs_practical", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你觉得 companion agent 应该如何判断搭话时机？", "task_type": "open_discussion", "family": "open_vs_emotional", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你怎么看“主答”和“总结”的边界？", "task_type": "open_discussion", "family": "open_vs_clarification", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "你们觉得这套实验最值得汇报的发现是什么？", "task_type": "open_discussion", "family": "open_vs_practical", "difficulty": "medium", "source": "manual_hard_boundary_v5_8"}
+{"query": "他最近突然冷淡，是不是在故意疏远我？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我朋友已读不回，是不是对我有意见？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "他每次都说忙，但又会发朋友圈，是不是不想理我？", "task_type": "relationship_reading", "family": "relationship_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "她说没事但语气很淡，是不是其实生气了？", "task_type": "relationship_reading", "family": "relationship_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "他主动找我聊天又忽冷忽热，这算不算有好感？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我同学突然不和我一起吃饭了，是不是我哪里得罪他了？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "他不愿意介绍我给朋友认识，是不是不认真？", "task_type": "relationship_reading", "family": "relationship_vs_decision", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "她总是回得很慢，是不是对我没兴趣？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "朋友聚会没有叫我，是不是他们不想带我？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "他嘴上说支持我，但行动上一直拖，是不是敷衍？", "task_type": "relationship_reading", "family": "relationship_vs_decision", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "她突然把聊天频率降下来了，是不是关系变淡了？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "他明明在线却不回消息，是不是在回避我？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我跟朋友吵完后他发了个表情包，是不是想缓和？", "task_type": "relationship_reading", "family": "relationship_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "她说以后再说，这是不是拒绝我的意思？", "task_type": "relationship_reading", "family": "relationship_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "他总开我玩笑，是亲近还是不尊重？", "task_type": "relationship_reading", "family": "relationship_vs_decision", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我发消息他只回一个嗯，是不是不想聊了？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "朋友最近只找别人不找我，是不是我被边缘化了？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "她突然问我有没有空，是不是想约我？", "task_type": "relationship_reading", "family": "relationship_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "他一直给建议但不安慰我，是不是不在乎我的感受？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "对方说随便，是不是其实有期待？", "task_type": "relationship_reading", "family": "relationship_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "他总在关键时候消失，是不是不可靠？", "task_type": "relationship_reading", "family": "relationship_vs_decision", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "她把我介绍给她朋友，是不是说明关系更进一步了？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "他明明答应了又临时取消，是不是没把我当回事？", "task_type": "relationship_reading", "family": "relationship_vs_decision", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "朋友说我想太多，是不是在否定我的感受？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "她发消息只问工作，是不是想保持距离？", "task_type": "relationship_reading", "family": "relationship_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "他会记得我的小事，这是不是喜欢的表现？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我道歉后他没有回应，是不是还在生气？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "她说我们还是朋友，是不是委婉拒绝？", "task_type": "relationship_reading", "family": "relationship_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "他突然夸我，是不是想缓和之前的矛盾？", "task_type": "relationship_reading", "family": "relationship_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "朋友把秘密告诉别人，是不是已经不信任我了？", "task_type": "relationship_reading", "family": "relationship_vs_decision", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "他总说以后再约，是不是其实没兴趣？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "她主动分享生活细节，是不是把我当亲近的人？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "他说我太敏感，是不是在逃避问题？", "task_type": "relationship_reading", "family": "relationship_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "同事表面客气但不合作，是不是对我有防备？", "task_type": "relationship_reading", "family": "relationship_vs_decision", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "他没有祝我生日快乐，是不是关系没那么好了？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "她突然把头像换了，是不是跟我有关？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "他愿意听我吐槽但不主动找我，是不是只是普通朋友？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "朋友说最近很忙，是不是在找借口？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "他看到我消息后隔很久才回，是不是故意冷处理？", "task_type": "relationship_reading", "family": "relationship_vs_emotional", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "她说别多想，是不是其实有事情瞒着我？", "task_type": "relationship_reading", "family": "relationship_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我这两天真的好累，感觉什么都不想做。", "task_type": "emotional_support", "family": "emotional_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我突然觉得自己很没用，明明努力了还是做不好。", "task_type": "emotional_support", "family": "emotional_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我今天被老师批评了，心里特别难受。", "task_type": "emotional_support", "family": "emotional_vs_relationship", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我现在有点崩溃，不知道怎么让自己缓过来。", "task_type": "emotional_support", "family": "emotional_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我感觉没人理解我，真的很委屈。", "task_type": "emotional_support", "family": "emotional_vs_relationship", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我一想到明天要汇报就很焦虑。", "task_type": "emotional_support", "family": "emotional_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我最近总觉得自己拖后腿，很内耗。", "task_type": "emotional_support", "family": "emotional_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我心里堵得慌，但又说不清为什么。", "task_type": "emotional_support", "family": "emotional_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我觉得自己好像一直在失败。", "task_type": "emotional_support", "family": "emotional_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我现在很害怕被否定。", "task_type": "emotional_support", "family": "emotional_vs_relationship", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我好像喜欢上一个人，但我有点慌。", "task_type": "emotional_support", "family": "emotional_vs_relationship", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我今天什么都没做好，特别想哭。", "task_type": "emotional_support", "family": "emotional_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我觉得自己不够聪明，越学越焦虑。", "task_type": "emotional_support", "family": "emotional_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我最近压力大到睡不着。", "task_type": "emotional_support", "family": "emotional_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我真的很怕自己做不出成果。", "task_type": "emotional_support", "family": "emotional_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我感觉自己被落下了，有点难过。", "task_type": "emotional_support", "family": "emotional_vs_relationship", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我现在很烦，但不想被讲大道理。", "task_type": "emotional_support", "family": "emotional_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我其实知道该做事，但就是提不起劲。", "task_type": "emotional_support", "family": "emotional_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我觉得自己很孤单。", "task_type": "emotional_support", "family": "emotional_vs_relationship", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我今天被朋友一句话刺到了。", "task_type": "emotional_support", "family": "emotional_vs_relationship", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我总觉得自己不配得到好结果。", "task_type": "emotional_support", "family": "emotional_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我现在很想放弃。", "task_type": "emotional_support", "family": "emotional_vs_decision", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我对未来有点没信心。", "task_type": "emotional_support", "family": "emotional_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我觉得自己一直在原地打转。", "task_type": "emotional_support", "family": "emotional_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我最近情绪起伏很大。", "task_type": "emotional_support", "family": "emotional_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我被拒绝之后一直缓不过来。", "task_type": "emotional_support", "family": "emotional_vs_relationship", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我心里很乱，不知道该怎么面对。", "task_type": "emotional_support", "family": "emotional_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我突然觉得所有努力都没有意义。", "task_type": "emotional_support", "family": "emotional_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我今天被误会了，真的很委屈。", "task_type": "emotional_support", "family": "emotional_vs_relationship", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我现在特别需要有人安慰一下。", "task_type": "emotional_support", "family": "emotional_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我总觉得别人都比我厉害。", "task_type": "emotional_support", "family": "emotional_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我好像陷入自我怀疑了。", "task_type": "emotional_support", "family": "emotional_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我现在脑子一片空白，有点撑不住。", "task_type": "emotional_support", "family": "emotional_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我觉得自己很失败，但又不敢和别人说。", "task_type": "emotional_support", "family": "emotional_vs_relationship", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我现在有点敏感，别人一句话我都会想很多。", "task_type": "emotional_support", "family": "emotional_vs_relationship", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我明知道没那么严重，但就是忍不住焦虑。", "task_type": "emotional_support", "family": "emotional_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我感觉自己一直被比较，很累。", "task_type": "emotional_support", "family": "emotional_vs_relationship", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我今天心情很低落，不太想分析问题。", "task_type": "emotional_support", "family": "emotional_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我其实只是想被理解一下。", "task_type": "emotional_support", "family": "emotional_vs_relationship", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "我不知道为什么突然很难过。", "task_type": "emotional_support", "family": "emotional_vs_clarification", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "你刚才说不要立刻回他，依据是什么？", "task_type": "clarification", "family": "clarification_vs_decision", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "你是说我应该先整理情绪，而不是马上解释吗？", "task_type": "clarification", "family": "clarification_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "这个结果里 macro-F1 为什么比 accuracy 更重要？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "为什么 open_discussion 会吞掉 practical_help？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "你说 hard data 会影响边界，具体是什么意思？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "这个 confusion matrix 应该怎么看？", "task_type": "clarification", "family": "clarification_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "你刚才说 cue 特征前置，和 rule override 有什么区别？", "task_type": "clarification", "family": "clarification_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "为什么 train 很高但 test 低就是过拟合？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "你说 decision_support 召回低，是从哪里看出来的？", "task_type": "clarification", "family": "clarification_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "这几个指标分别代表什么？", "task_type": "clarification", "family": "clarification_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "为什么 exp3 加了 cue 和 hard 反而下降？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "你说 tune alpha 缓解冲突，原理是什么？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "这里的 extra_weight 到底是怎么影响训练的？", "task_type": "clarification", "family": "clarification_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "weighted-F1 和 macro-F1 有什么区别？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "为什么 public weak label 不能当金标准？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "你刚才说 light_trouble 合并到 practical_help，为什么？", "task_type": "clarification", "family": "clarification_vs_decision", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "v5.6 的 rule_candidate_rate 低说明什么？", "task_type": "clarification", "family": "clarification_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "为什么条件式 guard 没有明显改变结果？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "你说 open_guard 保护带是什么意思？", "task_type": "clarification", "family": "clarification_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "这条样本为什么不是 open_discussion，而是 practical_help？", "task_type": "clarification", "family": "clarification_vs_decision", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "你说这个 case 是边界样本，边界在哪里？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "为什么要用 dev_macro_f1 选 alpha？", "task_type": "clarification", "family": "clarification_vs_decision", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "alpha 越小代表什么？", "task_type": "clarification", "family": "clarification_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "为什么 hard-only accuracy 高但 macro-F1 低？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "你说类别均衡是什么意思？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "为什么很多影视对白不适合训练 task_type？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "你说 source_weight 降权，是怎么做的？", "task_type": "clarification", "family": "clarification_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "这个 report 里的 error_rate 怎么算？", "task_type": "clarification", "family": "clarification_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "为什么 practical_help 和 decision_support 容易混？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "你说候选模型和冻结版本有什么区别？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "为什么不能只看总准确率？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "这个样本“你们怎么看我该怎么办”应该怎么标？", "task_type": "clarification", "family": "clarification_vs_decision", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "你刚才提到的 hard boundary 是什么意思？", "task_type": "clarification", "family": "clarification_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "为什么 cue-only 会提升 macro-F1？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "为什么 open_discussion 的 recall 高不一定好？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "这里的 rule_hit_count 为什么是 0？", "task_type": "clarification", "family": "clarification_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "你说模型对 open_discussion 太自信，怎么看出来？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "为什么要把错误样本按 family 分类？", "task_type": "clarification", "family": "clarification_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "你说调度器验收不能只用 public test，为什么？", "task_type": "clarification", "family": "clarification_vs_open", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}
+{"query": "下一轮 grid search 的变量为什么选这几个？", "task_type": "clarification", "family": "clarification_vs_practical", "difficulty": "hard", "source": "manual_hard_boundary_v5_8"}

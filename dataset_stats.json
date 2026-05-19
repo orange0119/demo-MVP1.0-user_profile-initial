@@ -1,0 +1,73 @@
+{
+  "seed": 42,
+  "public_weight": 0.35,
+  "curated_weight": 1.0,
+  "splits": {
+    "train": {
+      "size": 12141,
+      "label_distribution": {
+        "practical_help": 2333,
+        "open_discussion": 4971,
+        "clarification": 1823,
+        "decision_support": 2003,
+        "relationship_reading": 805,
+        "emotional_support": 159,
+        "light_trouble": 47
+      },
+      "source_distribution": {
+        "public_train": 11945,
+        "curated_sample_cases_v52": 54,
+        "curated_aug_v52": 142
+      },
+      "group_distribution": {
+        "public_weak": 11945,
+        "curated_base": 54,
+        "curated_aug": 142
+      }
+    },
+    "dev": {
+      "size": 1812,
+      "label_distribution": {
+        "practical_help": 349,
+        "open_discussion": 749,
+        "decision_support": 288,
+        "clarification": 279,
+        "light_trouble": 6,
+        "relationship_reading": 118,
+        "emotional_support": 23
+      },
+      "source_distribution": {
+        "public_dev": 1770,
+        "curated_aug_v52": 36,
+        "curated_sample_cases_v52": 6
+      },
+      "group_distribution": {
+        "public_weak": 1770,
+        "curated_aug": 36,
+        "curated_base": 6
+      }
+    },
+    "test": {
+      "size": 3577,
+      "label_distribution": {
+        "practical_help": 696,
+        "open_discussion": 1418,
+        "relationship_reading": 260,
+        "clarification": 557,
+        "decision_support": 599,
+        "light_trouble": 10,
+        "emotional_support": 37
+      },
+      "source_distribution": {
+        "public_test": 3535,
+        "curated_aug_v52": 32,
+        "curated_sample_cases_v52": 10
+      },
+      "group_distribution": {
+        "public_weak": 3535,
+        "curated_aug": 32,
+        "curated_base": 10
+      }
+    }
+  }
+}
